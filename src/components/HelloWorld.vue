@@ -1,4 +1,4 @@
-<template>
+ï»¿<template>
   <div class="hello">
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
@@ -68,8 +68,7 @@
           href="http://vue-loader.vuejs.org/"
           target="_blank"
         >
-          vue-loader
-     ÖÐÎÄÖÐÎÄ   </a>
+          vue-loaderä¸­æ–‡å•¦å•¦å•¦</a>
       </li>
       <li>
         <a
