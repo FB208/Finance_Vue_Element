@@ -1,0 +1,23 @@
+{
+	"data":"test",
+    "dataGroups": [
+        {
+            "name": "Bill123",
+            "money": 10000,
+            "insertDate": "",
+            "backDate": "",
+            "expectInterst": 500,
+            "remark": "",
+			"edit":false
+        },
+		{
+            "name": "coollll1",
+            "money": 10000,
+            "insertDate": "",
+            "backDate": "",
+            "expectInterst": 500,
+            "remark": "",
+			"edit":false
+        }
+    ]
+}
